@@ -1,0 +1,21 @@
+벽불 11 ramp.bmp
+슬라임 103 slim.bmp
+쥐 104 mouse.bmp
+럴커 102 rulker.bmp
+알까기 105 egg.bmp
+알까기2 106 egg2.bmp
+세리 1 seri.bmp
+문짝 12 door.bmp
+땅여우 110 fox_09.bmp
+얼음여우 114 fox2_09.bmp
+닭 111 chiken05.bmp
+굴러로봇 112 robo00_1.bmp
+점프로봇 113 robo_j02.bmp
+고스트 107 ghost01.bmp
+양 100 ram.bmp
+HP채워 60 Healing.bmp
+파워업 61 powerip.bmp
+HP만땅 62 allheal.bmp
+점수10점 63 ball.bmp
+
+

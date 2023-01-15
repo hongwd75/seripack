@@ -1,0 +1,51 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MapEditer - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSP8124.TMP" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/MapEditer.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Project\my source\map2\background.cpp"
+"C:\Project\my source\map2\convers.cpp"
+"C:\Project\my source\map2\SubFunction.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSP8124.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSP8125.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib comctl32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/MapEditer.pdb" /debug /machine:I386 /out:"Debug/MapEditer.exe" /pdbtype:sept 
+".\Debug\background.obj"
+".\Debug\convers.obj"
+".\Debug\file.obj"
+".\Debug\MapEditer.obj"
+".\Debug\objectput.obj"
+".\Debug\StdAfx.obj"
+".\Debug\SubFunction.obj"
+".\Debug\resource.res"
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSP8125.TMP"
+<h3>Output Window</h3>
+Compiling...
+background.cpp
+C:\Project\my source\map2\background.cpp(1231) : warning C4244: '=' : conversion from 'unsigned long' to 'short', possible loss of data
+C:\Project\my source\map2\background.cpp(1232) : warning C4244: '=' : conversion from 'unsigned long' to 'short', possible loss of data
+C:\Project\my source\map2\background.cpp(1233) : warning C4244: '=' : conversion from 'unsigned long' to 'short', possible loss of data
+C:\Project\my source\map2\background.cpp(1267) : warning C4018: '<' : signed/unsigned mismatch
+C:\Project\my source\map2\background.cpp(1314) : warning C4244: '=' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Project\my source\map2\background.cpp(1315) : warning C4244: '=' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+C:\Project\my source\map2\background.cpp(1316) : warning C4244: '=' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+convers.cpp
+SubFunction.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+MapEditer.exe - 0 error(s), 7 warning(s)
+</pre>
+</body>
+</html>

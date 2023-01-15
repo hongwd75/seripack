@@ -1,0 +1,12 @@
+LF1 st1layer1.dat
+LF2 st1layer2.dat
+LF3 st1layer3.dat
+LF4 st1layer4.dat
+OUT stage1.map
+OBJECT read.txt
+OBJECTOUT obj.txt
+
+LAYER1 bg.bmp 40 30 108
+LAYER2 bg.bmp 40 30 108
+LAYER3 NONE
+LAYER4 attr00.bmp

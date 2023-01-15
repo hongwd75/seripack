@@ -1,0 +1,5 @@
+LISTNUM:1
+normal name:D:\my source\danceedit\baebaeng1.bmp[36]
+title name:baebaeng1.bmp[13]
+normal name:D:\my source\danceedit\baebaeng1.bmp[36]
+title name:baebaeng1.bmp[13]
